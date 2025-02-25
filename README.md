@@ -59,17 +59,9 @@ Use hand gestures to control the mouse cursor and perform click actions:
    - Move the cursor by raising your index finger.
    - Perform a click by raising both the index and middle fingers and bringing them close together.
 
-## Contributing
-
-Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to create a pull request.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For any questions or inquiries, please contact me:
-
-- LinkedIn: [Adhithyaa Sabareeswaran](https://www.linkedin.com/in/adhithyaa-s/)
-- GitHub: [adhi1702](https://github.com/adhi1702)
