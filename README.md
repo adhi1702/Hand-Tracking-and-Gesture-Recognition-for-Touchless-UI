@@ -55,12 +55,7 @@ This project is an innovative implementation that combines computer vision and m
 
 ## Usage
 
-1. Ensure your webcam is connected and working.
-2. Run the main script:
-   ```sh
-   python main.py
-   ```
-3. Use hand gestures to control the mouse cursor and perform click actions:
+Use hand gestures to control the mouse cursor and perform click actions:
    - Move the cursor by raising your index finger.
    - Perform a click by raising both the index and middle fingers and bringing them close together.
 
